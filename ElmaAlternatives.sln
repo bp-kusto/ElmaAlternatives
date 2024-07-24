@@ -22,6 +22,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SoftXspace", "SoftXspace", 
 		INFO\SoftXspace\README.MD = INFO\SoftXspace\README.MD
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DocLogix", "DocLogix", "{384FFB9C-3647-4BF2-AF8C-268EC46EDF99}"
+	ProjectSection(SolutionItems) = preProject
+		INFO\DocLogix\README.MD = INFO\DocLogix\README.MD
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{83D1CAF9-235D-4E22-B356-DD01CF4FAA15} = {29ECBB37-8A78-451E-8395-32202A382E53}
 		{5FD64612-3E7F-4AA9-A3A3-BD7E780ABAAA} = {29ECBB37-8A78-451E-8395-32202A382E53}
+		{384FFB9C-3647-4BF2-AF8C-268EC46EDF99} = {29ECBB37-8A78-451E-8395-32202A382E53}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {72C1FF7E-4AC4-4E9D-AD2F-BF1F6ED60BF8}
