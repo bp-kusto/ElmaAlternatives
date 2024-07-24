@@ -1,2 +1,2 @@
-[Головна](../../README.MD)
+п»ї[рџЏ  Р“РѕР»РѕРІРЅР°](../../README.MD)
 # [Megapolis.DocNet](https://inbase.com.ua/vsi-produkty/megapolis/)
